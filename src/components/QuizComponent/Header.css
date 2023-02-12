@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-content: space-between;
+  }
+  
+  .time {
+    margin-left: 80%;
+    margin-right: 0%;
+    vertical-align: top;
+  }
+  .question {
+    margin-left: 0%;
+    margin-right: 80%;
+    vertical-align: top;
+  }
